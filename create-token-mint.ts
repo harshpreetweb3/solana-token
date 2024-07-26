@@ -31,3 +31,5 @@ const tokenMint = await createMint(connection, user, user.publicKey, null, 2);
 const link = getExplorerLink("address", tokenMint.toString(), "devnet");
 
 console.log(`✅ Finished! Created token mint: ${link}`);
+
+//https://explorer.solana.com/address/7wDQ1ddkqyDwcoWtu4U7PkwweoZF4ZjKDd1q1Ckjc6KP?cluster=devnet
