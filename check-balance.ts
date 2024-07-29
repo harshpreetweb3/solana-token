@@ -33,4 +33,4 @@ console.log(
     `✅ Finished! The balance for the wallet at address ${publicKey} is ${balanceInSOL}!`
 );
 
-// npx esrun check-balance.ts ExriryaCnC49HeRu1rZnqeevYuXHcQajr1qP34Zu4MtS
+// npx esrun check-balance.ts F6kj2jbTCTtSj3BaCDoowzP33EC5HPX85x1fgC6QuN5L
